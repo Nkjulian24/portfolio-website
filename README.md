@@ -55,7 +55,7 @@ Brief summary of your Medical Laboratory Science and analytical experience.
 - Other relevant certifications
 
 ## 🌐 Portfolio
-[Visit My Portfolio Website](https://portfolio-website-psi-weld-22.vercel.app)
+[Visit My Portfolio Website](https://nkechika-portfolio.vercel.app/)
 
 ## Tech stack
 HTML, CSS, JavaScript
